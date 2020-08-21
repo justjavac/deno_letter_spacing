@@ -1,4 +1,3 @@
-// see https://github.com/jonschlinkert/word-wrap/blob/0a0e06bfe215f3bf3f15f084b3640ed354770a19/test.js
 import { assertEquals } from "https://deno.land/std@0.65.0/testing/asserts.ts";
 
 import space from "./mod.ts";
